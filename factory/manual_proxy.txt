@@ -458,3 +458,6 @@ mc-heads.net
 # 越狱下载源加速
 apt.thebigboss.org
 repo.chariz.com
+
+apple-relay.apple.com
+qookkagames.com
